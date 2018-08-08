@@ -1,0 +1,33 @@
+
+
+body {
+  /*important to note that "source" should always appear in the URL*/
+
+  background: url(https://source.unsplash.com/xx999OYHdwY);
+  background-size: cover;
+  background-position: center;
+  color: white;
+
+}
+
+html {
+  height: 80%;
+}
+
+#content {
+  text-align: center;
+  padding-top: 20%;
+  text-shadow: 1px 2px 2px black
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 2em;
+}
+
+hr {
+  width: 400px;
+  border-top: 1px solid #f8f8f8;
+  border-bottom: 1px solid #f8f8f8;
+}
+
