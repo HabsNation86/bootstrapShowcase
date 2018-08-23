@@ -1,9 +1,11 @@
 
 
+
+
 body {
   /*important to note that "source" should always appear in the URL*/
 
-  background: url(https://source.unsplash.com/xx999OYHdwY);
+  background: url(https://source.unsplash.com/mnv8yRtXKfo);
   background-size: cover;
   background-position: center;
   color: white;
@@ -11,10 +13,10 @@ body {
 }
 
 html {
-  height: 80%;
+  height: 100%;
 }
 
-#content {
+#contentfrench {
   text-align: center;
   padding-top: 20%;
   text-shadow: 1px 2px 2px black
@@ -25,9 +27,27 @@ h1 {
   font-size: 2em;
 }
 
+h2 {
+  font-weight: 700;
+  font-size: 1.5em;
+}
+
 hr {
-  width: 400px;
+  width: 300px;
   border-top: 1px solid #f8f8f8;
   border-bottom: 1px solid #f8f8f8;
 }
+
+#hr2 {
+  width: 10px;
+  border-top: 1px solid #f8f8f8;
+  border-bottom: 1px solid #f8f8f8;
+}
+
+#contentenglish {
+  text-align: center;
+  padding-top: 10%;
+  text-shadow: 1px 2px 2px black
+}
+
 
