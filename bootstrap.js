@@ -1,5 +1,5 @@
-$(".btn btn-default btn-lg").click({
-  "href":"www.google.com"
-  });
+console.log(" jQuery");
 
-console.log("jQuery working");
+$("h2").on("click", function(){
+  console.log("test");
+});

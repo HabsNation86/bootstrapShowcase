@@ -5,7 +5,7 @@
 body {
   /*important to note that "source" should always appear in the URL*/
 
-  background: url(https://source.unsplash.com/mnv8yRtXKfo);
+  background: url(https://source.unsplash.com/R5SrmZPoO40);
   background-size: cover;
   background-position: center;
   color: white;
@@ -51,7 +51,8 @@ hr {
 }
 
 .text-center {
-  margin-top: 250px;
+  margin-top: 150px;
   color : darkgreen;
+  font-size: 1.5em;
 }
 
