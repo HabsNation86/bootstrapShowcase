@@ -1,5 +1,10 @@
 console.log(" jQuery");
 
-$("h2").on("click", function(){
-  console.log("test");
+$("h1").on("click", function(){
+  console.log("test1");
 });
+
+$("h2").on("click", function(){
+  console.log("test2");
+});
+
